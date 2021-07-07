@@ -52,11 +52,18 @@ h1{
 }
 .customer-servey{
     background-image: url(shop-background-2.jpg);
-    text-align: center;
-    font-size: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: left;
+    padding: 30px;
+    font-size: 20px;
     text-shadow: 1px 1px 2px red;
 }
 footer{
     text-align: center;
     background-color: goldenrod;
+}
+.comments-box{
+    width: 175px;
+    height: 50px;
 }
